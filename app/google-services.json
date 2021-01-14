@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522924458613",
+    "project_id": "trawell-56c0d",
+    "storage_bucket": "trawell-56c0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522924458613:android:73906d7401167de667ee3c",
+        "android_client_info": {
+          "package_name": "com.example.trawell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522924458613-j358ptvjovdcj75350r24th5tpepievb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5_Bnb0hMxs8p53KSZGGuRCN1wSaO5mWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522924458613-j358ptvjovdcj75350r24th5tpepievb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
